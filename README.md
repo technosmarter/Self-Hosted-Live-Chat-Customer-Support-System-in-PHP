@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Self-Hosted Live Chat Customer Support System in PHP
+# Self-Hosted Live Chat Customer Support System in PHP
 
 ### Modern Self-Hosted Customer Support Chat Widget with Admin Panel
 
