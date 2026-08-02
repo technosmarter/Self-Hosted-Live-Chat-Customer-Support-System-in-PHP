@@ -1,0 +1,198 @@
+<div align="center">
+
+# 🚀 Self-Hosted Live Chat Customer Support System in PHP
+
+### Modern Self-Hosted Customer Support Chat Widget with Admin Panel
+
+<p>
+Build your own <strong>Self-Hosted Live Chat Customer Support System</strong> using
+<strong>PHP & MySQL</strong>. Add a modern real-time chat widget to any website
+while keeping complete control over your data, branding, and infrastructure.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/PHP-8.x-777BB4?style=for-the-badge&logo=php&logoColor=white">
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge">
+
+</p>
+
+<p>
+
+
+
+</p>
+
+</div>
+
+---
+
+# ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+✅ Real-Time Live Chat
+
+✅ Add Chat to Any Website
+
+✅ Single Line of Code Integration
+
+✅ Powerful Admin Dashboard
+
+✅ Fully Responsive Chat Widget
+
+✅ Typing Indicator
+
+✅ Message Seen Status
+
+✅ Email Notifications
+
+</td>
+
+<td width="50%">
+
+✅ Telegram Notifications
+
+✅ CAPTCHA Spam Protection
+
+✅ File Upload Support
+
+✅ User Management
+
+✅ Easy Installation Wizard
+
+✅ Self-Hosted & Secure
+
+✅ Fast Performance
+
+✅ PHP & MySQL
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📸 Screenshots
+
+<table>
+<tr>
+<td align="center">
+
+<h3>Admin Panel</h3>
+
+<img width="1910" height="857" alt="Admin Panel" src="https://github.com/user-attachments/assets/9a4e2d54-1bff-4bd2-b1d3-2fae1d4451e5" />
+
+
+</td>
+
+<td align="center">
+
+<h3>Live Chat Widget</h3>
+
+
+
+<img width="492" height="815" alt="customer Support Live Chat widget" src="https://github.com/user-attachments/assets/42359764-f2d2-4455-8136-f1914db1f347" />
+
+
+</td>
+</tr>
+</table>
+
+> Replace the images above with your actual screenshots.
+
+---
+
+# 🎥 Video Tutorial
+
+Complete installation and setup guide available on YouTube.
+
+https://youtu.be/tvpNE1AERdU
+
+---
+
+# 📥 Download
+
+The complete commercial version is available here.
+
+### 👉 https://technosmarter.com/item/self-hosted-live-chat-customer-support-php-script
+
+---
+
+# 💻 Tech Stack
+
+| Technology | Status |
+|------------|--------|
+| PHP | ✅ |
+| MySQL | ✅ |
+| HTML5 | ✅ |
+| CSS3 | ✅ |
+| JavaScript | ✅ |
+| Bootstrap | ✅ |
+
+---
+
+# 🎯 Perfect For
+
+- Customer Support Systems
+- Help Desk Software
+- Business Websites
+- Company Websites
+- SaaS Applications
+- CRM Projects
+- Agencies
+- Freelancers
+- Startups
+- PHP Developers
+
+---
+
+# ⭐ Why Choose This Project?
+
+- 💰 No Monthly Subscription
+- 🔒 Self Hosted
+- ⚡ Fast & Lightweight
+- 🎨 Modern User Interface
+- 📱 Mobile Friendly
+- 🚀 Easy Installation
+- 💻 Commercial License Available
+
+---
+
+# 🔑 SEO Keywords
+
+```
+PHP Live Chat
+Self Hosted Live Chat
+PHP Chat Widget
+Customer Support System
+Help Desk PHP
+PHP Admin Panel
+MySQL Live Chat
+Website Chat Widget
+Real-Time Chat PHP
+Customer Support Software
+```
+
+---
+
+<div align="center">
+
+# 👨‍💻 Developed by Techno Smarter
+
+🌐 https://technosmarter.com
+
+📦 Product
+
+https://technosmarter.com/item/self-hosted-live-chat-customer-support-php-script
+
+⭐ If you like this project, don't forget to Star the repository.
+
+</div>
