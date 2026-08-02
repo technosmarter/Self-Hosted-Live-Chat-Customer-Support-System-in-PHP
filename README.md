@@ -114,6 +114,16 @@ while keeping complete control over your data, branding, and infrastructure.
      <td><img width="561" height="822" alt="Responsive Live chat widget" src="https://github.com/user-attachments/assets/5d472d74-4ab4-4ac4-a01f-f57fb16e6d09" />
 </td>
   </tr>
+  <tr>
+    <td>Single line of code to add live chat widget to any website</td>
+  </tr>
+  <tr>
+    <td>
+        <img width="1600" height="486" alt="Single line of code to add live chat widget to any website" src="https://github.com/user-attachments/assets/1ae98045-7263-4ebb-b822-a740b6212cca" />
+
+    </td>
+  
+  </tr>
 </table>
 
 
