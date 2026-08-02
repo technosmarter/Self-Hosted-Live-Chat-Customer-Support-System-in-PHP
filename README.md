@@ -106,7 +106,7 @@ while keeping complete control over your data, branding, and infrastructure.
 </tr>
 </table>
 
-> Replace the images above with your actual screenshots.
+<img width="1907" height="876" alt="Live Chat customer support system landing page in PHP" src="https://github.com/user-attachments/assets/770c7f27-7419-45ec-b0b6-41606cd78d05" />
 
 ---
 
