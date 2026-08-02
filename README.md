@@ -129,23 +129,23 @@ while keeping complete control over your data, branding, and infrastructure.
   
   </tr>
   <tr>
-    <td><img width="900" height="600" alt="self-hosting-live-chat-system-in-php" src="https://github.com/user-attachments/assets/7b4132ff-7ae4-4615-bfeb-97e725c83516" />
+    <td colspan="2"><img width="900" height="600" alt="self-hosting-live-chat-system-in-php" src="https://github.com/user-attachments/assets/7b4132ff-7ae4-4615-bfeb-97e725c83516" />
 </td>
     <tr>
-      <td>
+      <td colspan="2">
         <img width="900" height="600" alt="live-chat-support-system-landing-page-in-php" src="https://github.com/user-attachments/assets/defb4f98-504c-41d3-8dc5-d9b3781339e9" />
 
       </td>
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img width="900" height="600" alt="live-chat-support-instant-telegram-email-alert-features-php-scripts" src="https://github.com/user-attachments/assets/8d84b7bd-e1ad-4261-948b-ade12351c4ae" />
 
     </td>
     
   </tr>
   <tr>
-    <td>
+    <td colspan="2">
       <img width="1672" height="941" alt="Selft-hosted live chat support PHP scripts" src="https://github.com/user-attachments/assets/471adb21-70bb-4c81-83f7-4d6fc1ef1671" />
 
     </td>
