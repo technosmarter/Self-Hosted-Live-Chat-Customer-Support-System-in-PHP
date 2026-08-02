@@ -115,6 +115,7 @@ while keeping complete control over your data, branding, and infrastructure.
 </td>
   </tr>
   <tr>
+    <td>
     <td>Single line of code to add live chat widget to any website</td>
   </tr>
   <tr>
