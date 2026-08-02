@@ -108,8 +108,14 @@ while keeping complete control over your data, branding, and infrastructure.
 
 <img width="1907" height="876" alt="Live Chat customer support system landing page in PHP" src="https://github.com/user-attachments/assets/770c7f27-7419-45ec-b0b6-41606cd78d05" />
 
-<img width="436" height="720" alt="Responsive Live chat widget admin panel" src="https://github.com/user-attachments/assets/f6bbaf49-9b11-44fb-95ba-3cdf129a6d23" />
-<img width="561" height="822" alt="Responsive Live chat widget" src="https://github.com/user-attachments/assets/5d472d74-4ab4-4ac4-a01f-f57fb16e6d09" />
+<table>
+  <tr>
+    <td><img width="436" height="720" alt="Responsive Live chat widget admin panel" src="https://github.com/user-attachments/assets/f6bbaf49-9b11-44fb-95ba-3cdf129a6d23" /></td>
+     <td><img width="561" height="822" alt="Responsive Live chat widget" src="https://github.com/user-attachments/assets/5d472d74-4ab4-4ac4-a01f-f57fb16e6d09" />
+</td>
+  </tr>
+</table>
+
 
 
 
