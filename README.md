@@ -3,7 +3,7 @@
 # Self-Hosted Live Chat Customer Support System in PHP
 
 ### Modern Self-Hosted Customer Support Chat Widget with Admin Panel
-<img width="1983" height="793" alt="selft-hosted real time chat customer support system in PHP" src="https://github.com/user-attachments/assets/ff9a3a54-45c7-4c01-aaad-b586dc491db3" />
+<img width="1983" height="793" alt="selft-hosted real time chat customer support system in PHP" src="https://github.com/user-attachments/assets/c343a0ef-dbbd-41d9-bea3-df3e6870253d" />
 
 
 <p>
