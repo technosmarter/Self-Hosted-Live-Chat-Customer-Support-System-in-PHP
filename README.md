@@ -213,7 +213,7 @@ The complete commercial version is available here.
 
 ---
 
-# 🔑 SEO Keywords
+# 🔑 Reference
 
 ```
 PHP Live Chat
