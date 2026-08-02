@@ -110,47 +110,68 @@ while keeping complete control over your data, branding, and infrastructure.
 
 <img width="1907" height="876" alt="Live Chat customer support system landing page in PHP" src="https://github.com/user-attachments/assets/770c7f27-7419-45ec-b0b6-41606cd78d05" />
 
-<table>
+<table width="100%">
+
   <tr>
-    <td><img width="436" height="720" alt="Responsive Live chat widget admin panel" src="https://github.com/user-attachments/assets/f6bbaf49-9b11-44fb-95ba-3cdf129a6d23" /></td>
-     <td><img width="561" height="822" alt="Responsive Live chat widget" src="https://github.com/user-attachments/assets/5d472d74-4ab4-4ac4-a01f-f57fb16e6d09" />
-</td>
-  </tr>
-  <tr>
-    <td>
-    Single line of code to add live chat widget to any website
+    <td align="center">
+      <img width="436" height="720"
+        alt="Responsive Live Chat Admin Panel"
+        src="https://github.com/user-attachments/assets/f6bbaf49-9b11-44fb-95ba-3cdf129a6d23" />
+    </td>
+
+    <td align="center">
+      <img width="561" height="822"
+        alt="Responsive Live Chat Widget"
+        src="https://github.com/user-attachments/assets/5d472d74-4ab4-4ac4-a01f-f57fb16e6d09" />
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-        <img width="1600" height="486" alt="Single line of code to add live chat widget to any website" src="https://github.com/user-attachments/assets/1ae98045-7263-4ebb-b822-a740b6212cca" />
 
-    </td>
-    
-  
-  </tr>
   <tr>
-    <td colspan="2"><img width="900" height="600" alt="self-hosting-live-chat-system-in-php" src="https://github.com/user-attachments/assets/7b4132ff-7ae4-4615-bfeb-97e725c83516" />
-</td>
-    <tr>
-      <td colspan="2">
-        <img width="900" height="600" alt="live-chat-support-system-landing-page-in-php" src="https://github.com/user-attachments/assets/defb4f98-504c-41d3-8dc5-d9b3781339e9" />
-
-      </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img width="900" height="600" alt="live-chat-support-instant-telegram-email-alert-features-php-scripts" src="https://github.com/user-attachments/assets/8d84b7bd-e1ad-4261-948b-ade12351c4ae" />
-
-    </td>
-    
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img width="1672" height="941" alt="Selft-hosted live chat support PHP scripts" src="https://github.com/user-attachments/assets/471adb21-70bb-4c81-83f7-4d6fc1ef1671" />
-
+    <td colspan="2" align="center">
+      <h3>Single Line of Code to Add Live Chat Widget to Any Website</h3>
     </td>
   </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%"
+        alt="Single line of code to add live chat widget"
+        src="https://github.com/user-attachments/assets/1ae98045-7263-4ebb-b822-a740b6212cca" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%"
+        alt="Self Hosted Live Chat System in PHP"
+        src="https://github.com/user-attachments/assets/7b4132ff-7ae4-4615-bfeb-97e725c83516" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%"
+        alt="Live Chat Support Landing Page in PHP"
+        src="https://github.com/user-attachments/assets/defb4f98-504c-41d3-8dc5-d9b3781339e9" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%"
+        alt="Telegram and Email Notification Alerts"
+        src="https://github.com/user-attachments/assets/8d84b7bd-e1ad-4261-948b-ade12351c4ae" />
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%"
+        alt="Self Hosted Live Chat Customer Support System in PHP"
+        src="https://github.com/user-attachments/assets/471adb21-70bb-4c81-83f7-4d6fc1ef1671" />
+    </td>
+  </tr>
+
 </table>
 
 
